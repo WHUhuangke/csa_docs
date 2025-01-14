@@ -120,7 +120,7 @@ Below is the comparison between raw pattern and denoised pattern of marker gene 
 
 Below is the comparison between raw pattern and denoised pattern of marker gene Apod.
 
-.. image:: Apod.jpg
+.. image:: Apod_1.jpg
 
 Below is the comparison between raw pattern and denoised pattern of marker gene Atp2b4.
 
